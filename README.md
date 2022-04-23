@@ -2,8 +2,8 @@
 
 This is David Rojas M., I'm from Costa Rica #PuraVida, i'm Android, IOS Developer, enjoing solving problems and helping people
 
-[<img align="left" alt="Android" width="100px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
-[<img align="left" alt="IOS" width="100px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
 
 ### Follow me on Linkedin
 
@@ -78,3 +78,4 @@ This is David Rojas M., I'm from Costa Rica #PuraVida, i'm Android, IOS Develope
 [linkedin]: https://linkedin.com/in/jrojasm129
 [languages]: #
 [database]: #
+[knowledge]: #
