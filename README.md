@@ -5,8 +5,7 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 ### Follow me on Linkedin
 
 <p align="center">
-  <a href="https://linkedin.com/in/jrojasm129#gh-light-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-light.svg"/></a>
-  <a href="https://linkedin.com/in/jrojasm129#gh-dark-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-dark.svg"/></a>
+  <a href="https://linkedin.com/in/jrojasm129"><img width="32px" alt="LinkedIn" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
