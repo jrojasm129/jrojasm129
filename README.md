@@ -5,7 +5,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 <h2>📫 How to reach me</h2>
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/jrojasm129#gh-light-mode-only"><img width="32px" alt="Linkedin" title="Linkedin" src="./assets/linkedin-original.svg"/></a>
+  <a href="www.linkedin.com/in/jrojasm129#gh-light-mode-only"><img width="32px" alt="Linkedin" title="Linkedin" src="assets/linkedin-original.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br/>
