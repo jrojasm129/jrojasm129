@@ -1,5 +1,5 @@
-[<img align="left" width="80px" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
-[<img align="left" width="80px" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" width="80px" height="35px" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" width="80px" height="35px" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
 
 <br />
 
