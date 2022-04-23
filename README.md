@@ -5,11 +5,28 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 <h2>📫 How to reach me</h2>
 <!-- Social icons section -->
 <p align="center">
-  <a href="www.linkedin.com/in/jrojasm129#gh-light-mode-only"><img width="32px" alt="Linkedin" title="Linkedin" src="assets/linkedin-original.svg"/></a>
+  <a href="https://linkedin.com/in/jrojasm129#gh-light-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-light.svg"/></a>
+  <a href="https://linkedin.com/in/jrojasm129#gh-dark-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-dark.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://youtube.com/c/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Youtube" title="Youtube" src="./assets/images/youtube-light.svg"/></a>
+  <a href="https://youtube.com/c/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Youtube" title="Youtube" src="./assets/images/youtube-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://instagram.com/jrojasm129#gh-light-mode-only"><img width="32px" alt="Instagram" title="Youtube" src="./assets/images/instagram-light.svg"/></a>
+  <a href="https://instagram.com/jrojasm129#gh-dark-mode-only"><img width="32px" alt="Instagram" title="Youtube" src="./assets/images/instagram-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://twitter.com/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-light.svg"/></a>
+  <a href="https://twitter.com/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-dark.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://discord.gg/jrojasm129#gh-light-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-dark.svg"/></a>
+  <a href="https://discord.gg/jrojasm129#gh-dark-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-light.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://dev.to/jrojasm129#gh-light-mode-only"><img width="32px" alt="Dev.to" title="jrojasm129 Dev.to" src="./assets/images/dev-dark.svg"></a>
+  <a href="https://dev.to/jrojasm129#gh-dark-mode-only"><img width="32px" alt="Dev.to" title="jrojasm129 Dev.to" src="./assets/images/dev-light.svg"></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://ko-fi.com/jrojasm129#gh-light-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-dark.svg"/></a>
+  <a href="https://ko-fi.com/jrojasm129#gh-dark-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-light.svg"/></a>
 </p>
 <br/>
-
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
@@ -67,7 +84,7 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 
 <h2>📈 GitHub Stats</h2>
 
-| <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="David Rojas github stats" /></a> | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jrojasm129's github stats" /></a> | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <p align="center">
@@ -85,10 +102,9 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
   <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
 </p>
 
-
-
 <p align="center">
   <a href="https://github.com/jrojasm129?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
-[linkedin]: https://linkedin.com/in/ialopezg
+
+[linkedin]: https://linkedin.com/in/jrojasm129
