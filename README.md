@@ -1,15 +1,19 @@
 ### Hi there 👋
 
-This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
+This is David Rojas M., I'm from Costa Rica #PuraVida, i'm Android, IOS Developer, enjoing solving problems and helping people
+
+[<img align="left" alt="Android" width="100px" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" alt="IOS" width="100px" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
 
 ### Follow me on Linkedin
 
-<p align="center">
-  <a href="https://linkedin.com/in/jrojasm129"><img width="120px" alt="LinkedIn" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<p align="left">
+  <a href="https://linkedin.com/in/jrojasm129"><img width="100px" alt="LinkedIn" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-👨‍💻 I do:
+## 👨‍💻 I do:
+
 - Fullstack development 👨🏾‍💻
 - Mobile and Cross-Platform development
 - JavaScript, TypeScript, Java, PHP, Python, and everything related with a heavy preference for backend development.
