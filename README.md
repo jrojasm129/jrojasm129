@@ -30,7 +30,6 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][languages]
 
 
-
 ### Database
 
 [<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />][database]
@@ -39,8 +38,7 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 [<img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/1335026?v=4" style="padding-right:10px;" />][database]
 
 
-
-##🌱 Currently Learning
+## 🌱 Currently Learning
 
 - Rust
 - IoT
@@ -71,5 +69,5 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 
 
 [linkedin]: https://linkedin.com/in/jrojasm129
-[database]: #
 [languages]: #
+[database]: #
