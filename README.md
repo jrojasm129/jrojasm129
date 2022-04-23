@@ -71,3 +71,5 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 
 
 [linkedin]: https://linkedin.com/in/jrojasm129
+[database]: #
+[languages]: #
