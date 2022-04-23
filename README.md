@@ -29,6 +29,8 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 [<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][languages]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][languages]
 
+<br />
+<br />
 
 ### Database
 
@@ -37,6 +39,8 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][database]
 [<img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/1335026?v=4" style="padding-right:10px;" />][database]
 
+<br />
+<br />
 
 ## 🌱 Currently Learning
 
