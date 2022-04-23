@@ -5,26 +5,16 @@
 
 ### Hello everyone 👋
 
-#### My name's David Rojas, a Cross-Platform Developer and Flutter passionate, I'm come from Costa Rica #PuraVida :fire:.
+My name's David Rojas, a Cross-Platform Developer and Flutter passionate, I'm come from Costa Rica #PuraVida :fire:.
 
 
-### Yo can follow me on Linkedin
+### You can follow me on Linkedin
 <p align="left">
   <a href="https://linkedin.com/in/jrojasm129"><img width="100px" alt="LinkedIn" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 
-## 👨‍💻 I do:
-
-- Fullstack development 👨🏾‍💻
-- Mobile and Cross-Platform development
-- JavaScript, TypeScript, Java, PHP, Python, and everything related with a heavy preference for backend development.
-- Angular ❤️ and React/ReactNative ⚛️
-- NestJS 😻
-
 ## Technologies I use
-
-### Languages & Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][languages]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][languages]
@@ -37,8 +27,6 @@
 <br />
 <br />
 
-### Database
-
 [<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />][database]
 [<img align="left" alt="MSSQL" width="26px" src="./assets/images/sql-server-icon.png" style="padding-right:10px;" />][database]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][database]
@@ -47,12 +35,13 @@
 <br />
 <br />
 
-## 🌱 Currently Learning
+## Currently Learning
 
-- Rust
-- IoT
+- Ethical Hacking
+- Data Science
+- Ethereum Smart Contracts
 
-## 📈 GitHub Stats
+## GitHub Stats
 
 | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jrojasm129's github stats" /></a> | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -61,19 +50,6 @@
   <a href="https://github.com/jrojasm129">
     <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrojasm129&row=2&column=6&margin-w=15&margin-h=15" />
   </a>
-</p>
-
-## 🔥 Streak stats
-
-<p align="center">
-  <a href="https://github.com/jrojasm129">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="jrojasm129's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jrojasm129&theme=monokai-metallian&hide_border=true" />
-  </a>
-  <p align="center">🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
-</p>
-
-<p align="center">
-  <a href="https://github.com/jrojasm129?tab=repositories&sort=stargazers"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.herokuapp.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
 </p>
 
 
