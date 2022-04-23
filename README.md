@@ -1,32 +1,14 @@
 ### Hi there 👋
 
-This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, and I love solving problems :smile:
+This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 
-<h2>📫 How to reach me</h2>
-<!-- Social icons section -->
+### Follow me on Linkedin
+
 <p align="center">
   <a href="https://linkedin.com/in/jrojasm129#gh-light-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-light.svg"/></a>
   <a href="https://linkedin.com/in/jrojasm129#gh-dark-mode-only"><img width="32px" alt="LinkedIn" title="Youtube" src="./assets/images/linkedin-dark.svg"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://youtube.com/c/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Youtube" title="Youtube" src="./assets/images/youtube-light.svg"/></a>
-  <a href="https://youtube.com/c/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Youtube" title="Youtube" src="./assets/images/youtube-dark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://instagram.com/jrojasm129#gh-light-mode-only"><img width="32px" alt="Instagram" title="Youtube" src="./assets/images/instagram-light.svg"/></a>
-  <a href="https://instagram.com/jrojasm129#gh-dark-mode-only"><img width="32px" alt="Instagram" title="Youtube" src="./assets/images/instagram-dark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://twitter.com/isidrolopezg#gh-light-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-light.svg"/></a>
-  <a href="https://twitter.com/isidrolopezg#gh-dark-mode-only"><img width="32px" alt="Twitter" title="Twitter" src="./assets/images/twitter-dark.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/jrojasm129#gh-light-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-dark.svg"/></a>
-  <a href="https://discord.gg/jrojasm129#gh-dark-mode-only" alt="Dev Pro Tips Discussion & Support Server"><img width="32px" src="./assets/images/discord-light.svg"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://dev.to/jrojasm129#gh-light-mode-only"><img width="32px" alt="Dev.to" title="jrojasm129 Dev.to" src="./assets/images/dev-dark.svg"></a>
-  <a href="https://dev.to/jrojasm129#gh-dark-mode-only"><img width="32px" alt="Dev.to" title="jrojasm129 Dev.to" src="./assets/images/dev-light.svg"></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://ko-fi.com/jrojasm129#gh-light-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-dark.svg"/></a>
-  <a href="https://ko-fi.com/jrojasm129#gh-dark-mode-only"><img width="32px" alt="Ko-fi" title="Buy me a coffee" src="./assets/images/ko-fi-light.svg"/></a>
 </p>
-<br/>
 
 👨‍💻 I do:
 - Fullstack development 👨🏾‍💻
@@ -60,10 +42,6 @@ This is Isidro A. López G., I'm from Nicaragua, living for a while in Panama, a
 [<img align="left" alt="Docker" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" style="padding-right:10px;" />][cssplaylist]
 [<img align="left" alt="GraphQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg" style="padding-right:10px;" />][webdevplaylist]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="./assets/images/github-dark.png" style="padding-right:10px;" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./assets/images/terminal-dark.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-dark-mode-only)
-[<img align="left" alt="GitHub" width="26px" src="./assets/images/github-light.png" style="padding-right:10px;" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-light-mode-only)
-[<img align="left" alt="Terminal" width="26px" src="./assets/images/terminal-light.svg" />](https://youtube.com/playlist?list=PLreOwwztNObgXtoqkr4hc0IIY4FYg9A_W#gh-light-mode-only)
 <br />
 <br />
 
