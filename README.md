@@ -1,8 +1,6 @@
-[<img align="left" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
-[<img align="left" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" width="50px" alt="Android" src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" width="50px" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
 
-
-<br />
 <br />
 
 ### Hi there 👋
