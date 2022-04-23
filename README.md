@@ -17,24 +17,26 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 - Angular ❤️ and React/ReactNative ⚛️
 - NestJS 😻
 
-##Technologies I use
+## Technologies I use
 
-###Languages & Tools
+### Languages & Tools
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="VB.Net" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original-wordmark.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />]
 
 
 
-###Database
+### Database
 
-[<img align="left" alt="MySQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="padding-right:10px;" />]
-[<img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/1335026?v=4" style="padding-right:10px;" />]
+[<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="MSSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" style="padding-right:10px;" />]
 [<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />]
+[<img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/1335026?v=4" style="padding-right:10px;" />]
 
 
 
@@ -43,7 +45,7 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
 - Rust
 - IoT
 
-##📈 GitHub Stats
+## 📈 GitHub Stats
 
 | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jrojasm129's github stats" /></a> | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
@@ -54,7 +56,7 @@ This is David Rojas M., I'm from Costa Rica #PuraVida :smile:
   </a>
 </p>
 
-##🔥 Streak stats
+## 🔥 Streak stats
 
 <p align="center">
   <a href="https://github.com/jrojasm129">
