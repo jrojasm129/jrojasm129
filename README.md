@@ -9,9 +9,9 @@
 
 ## Sobre mí
 
-¡Hola! Soy David Rojas, un desarrollador Móvil y Backend, apasionado de Flutter. <br />
-Me encanta crear aplicaciones móviles y el desarrollo backend utilizando tecnologías como Flutter, Dart, Nestjs, TypeScript y ahorita mismo que estoy incursionandome en Python con FastApi.
-Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes. <br />
+¡Hola! Soy un desarrollador de aplicaciones Móvil y Backend. <br />
+Me encanta crear aplicaciones móviles y me apasiona el desarrollo backend, generalmente utilizo tecnologías como Flutter, Dart, Nestjs, TypeScript y ahorita mismo que estoy incursionandome en Python y FastApi.
+Siempre estoy buscando aprender y explorar nuevas tecnologías o técnicas emocionantes. <br />
 ¡Pura Vida! :fire: 
 
 ## Tecnologías que utilizo
@@ -64,6 +64,9 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes. <br
 - FastApi
 - Docker
 
+<br />
+<br />
+
 ## Experiencia Profesional
 
 ### Heippi
@@ -81,7 +84,10 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes. <br
     - Integración e Interconexión entre sistemas informatios de diferentes fabricantes.
     - Testing, control de excepciones, logs de errores y auditoría.
 - **Tecnologías utilizadas:** NestJS, Flutter, FastApi, Postgres, MongoDB, Docker, Sentry, Kibana, ElasticSearch, Amazon S3, entre otros.
+- **Marco de trabajo:** SCRUM
 
+<br />
+<br />
 
 ### Servicios y Alimentación Juicy CM S.A
 - **Cargo:** Asistente Administrativo y Contable
@@ -96,7 +102,9 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes. <br
     - Mantenimiento de registros contables actualizados y precisos.
     - Colaboración con el equipo para mejorar los procesos administrativos y contables.
 
-      
+<br />
+<br />
+
 ### Comercial Alemora S.A
 - **Cargo:** Asistente de Auditoría Interna
 - **Periodo:** Junio 2017 - Febrero 2018 (9 meses)
@@ -110,7 +118,9 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes. <br
     - Aplicación de cuestionarios de control interno para evaluar la eficiencia de los procesos.
     - Elaboración de informes gerenciales claros y concisos para comunicar hallazgos y recomendaciones.
  
-      
+<br />
+<br />
+
 ### Asociación Solidarista de Empleados Procter & Gamble (ASEPG)
 - **Departamento:** Proveeduría y Costos
 - **Periodo:** Marzo 2013 - Abril 2017 (4 años 2 meses)
