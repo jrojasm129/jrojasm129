@@ -1,65 +1,62 @@
-[<img align="left" width="30px" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />][knowledge]
-[<img align="left" width="30px" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />][knowledge]
-
-<br />
-
-### Hello everyone 👋
-
-My name's David Rojas, a Cross-Platform Developer and Flutter passionate, I'm come from Costa Rica #PuraVida :fire:.
-
-
-### You can follow me on Linkedin
-<p align="left">
-  <a href="https://linkedin.com/in/jrojasm129"><img width="100px" alt="LinkedIn" title="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-</p>
-
-## Technologies I use
-
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Flutter" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Dart" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="VB.Net" width="26px" src="./assets/images/vb-dot-net.png" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Node.js" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Photoshop" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Git" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Nestjs" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Javascript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Typescript" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" style="padding-right:10px;" />][languages]
-[<img align="left" alt="Python" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="padding-right:10px;" />][languages]
-
-<br />
-<br />
-
-[<img align="left" alt="SQLite" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" style="padding-right:10px;" />][database]
-[<img align="left" alt="MSSQL" width="26px" src="./assets/images/sql-server-icon.png" style="padding-right:10px;" />][database]
-[<img align="left" alt="MongoDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" style="padding-right:10px;" />][database]
-[<img align="left" alt="Firebase" width="26px" src="https://avatars.githubusercontent.com/u/1335026?v=4" style="padding-right:10px;" />][database]
-[<img align="left" alt="PostgreSQL" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" style="padding-right:10px;" />][database]
-[<img align="left" alt="CouchDB" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" style="padding-right:10px;" />][database]
-
-<br />
-<br />
-
-## Currently Learning
-
-- Ethical Hacking
-- Data Science
-- Ethereum Smart Contracts
-
-## GitHub Stats
-
-| <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="jrojasm129's github stats" /></a> | <a href="https://github.com/jrojasm129"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" /></a> |
-| ------------- | ------------- |
+<h1 align="center">Hola a todos, soy David Rojas</h1>
+<h3 align="center">Desarrollador Cross-Platform y apasionado de Flutter</h3>
 
 <p align="center">
-  <a href="https://github.com/jrojasm129">
-    <img align="center" src="https://github-profile-trophy.vercel.app/?username=jrojasm129&row=2&column=6&margin-w=15&margin-h=15" />
+  <a href="https://linkedin.com/in/jrojasm129">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
+## Sobre mí
 
-[linkedin]: https://linkedin.com/in/jrojasm129
-[languages]: #
-[database]: #
-[knowledge]: #
+¡Hola! Soy David Rojas, un desarrollador Cross-Platform y apasionado de Flutter. ¡Pura Vida desde Costa Rica! :fire: Me encanta crear aplicaciones móviles y web utilizando tecnologías como Flutter, Dart, Node.js y JavaScript. Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
+
+## Tecnologías que utilizo
+
+### Desarrollo de aplicaciones
+
+<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+<img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
+<img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
+<img align="left" alt="VB.Net" width="30px" src="./assets/images/vb-dot-net.png" />
+<img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+
+<br />
+<br />
+
+### Bases de datos
+
+<img align="left" alt="SQLite" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+<img align="left" alt="MSSQL" width="30px" src="./assets/images/sql-server-icon.png" />
+<img align="left" alt="MongoDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+<img align="left" alt="Firebase" width="30px" src="https://avatars.githubusercontent.com/u/1335026?v=4" />
+<img align="left" alt="PostgreSQL" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
+<img align="left" alt="CouchDB" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/couchdb/couchdb-original.svg" />
+
+<br />
+<br />
+
+## Actualmente estoy aprendiendo
+
+- Hacking Ético
+- Ciencia de Datos
+- Ethereum Smart Contracts
+
+## Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de David Rojas" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más utilizados por David Rojas" />
+</p>
+
+<p align="center">
+  <a href="https://github.com/jrojasm129">
+    <img src="https://github-profile-trophy.vercel.app/?username=jrojasm129&row=2&column=6&margin-w=15&margin-h=15" alt="Logros de GitHub de David Rojas" />
+  </a>
+</p>
