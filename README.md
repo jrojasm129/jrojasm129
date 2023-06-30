@@ -63,15 +63,18 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
 - FastApi
 - Docker
 
-## Estadísticas de GitHub
+## Experiencia Profesional
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jrojasm129&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Estadísticas de GitHub de David Rojas" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrojasm129&layout=compact&theme=buefy&hide_border=true" alt="Lenguajes más utilizados por David Rojas" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/jrojasm129">
-    <img src="https://github-profile-trophy.vercel.app/?username=jrojasm129&row=2&column=6&margin-w=15&margin-h=15" alt="Logros de GitHub de David Rojas" />
-  </a>
-</p>
+### Desarrollador Móvil y Backend en Heippi
+- **Periodo:** Ago 2022 - Actualidad
+- **Descripción:** Soy desarrollador de software en Heippi, una empresa especializada en el desarrollo de soluciones a medida. Durante mi trayectoria, he tenido la oportunidad de trabajar en diversos proyectos y sectores, incluyendo el bancario, hotelero, bienes raíces, conjuntos residenciales, entre otros.
+- **Responsabilidades y Logros:**
+    - Implementación de soluciones para el manejo de datos multimedia en buckets S3.
+    - Integración exitosa con pasarelas de pago, CRM y plataformas de reservas para el sector hotelero.
+    - Automatización de procesos para mejorar la eficiencia y reducir los tiempos de respuesta.
+    - Procesamiento masivo de datos para análisis y generación de informes.
+    - Colaboración efectiva con equipos multidisciplinarios para alcanzar resultados exitosos.
+    - Gestión de colas de tareas para procesos eficientes y escalables.
+    - Integración e Interconexión entre sistemas informatios de diferentes fabricantes.
+    - Testing, control de excepciones, logs de errores y auditoría.
+- **Tecnologías utilizadas:** NestJS, Flutter, FastApi, Postgres, MongoDB, Docker, Sentry, Kibana, ElasticSearch, Amazon S3, entre otros.
