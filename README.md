@@ -65,8 +65,10 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
 
 ## Experiencia Profesional
 
-### Desarrollador Móvil y Backend en Heippi
-- **Periodo:** Ago 2022 - Actualidad
+### Heippi
+- **Departamento:**Desarrollo de sottware Móvil y Backend
+- **Periodo:** Agosto 2022 - Actualidad
+- **Ubicación:** Cartagena, Colombia
 - **Descripción:** Soy desarrollador de software en Heippi, una empresa especializada en el desarrollo de soluciones a medida. Durante mi trayectoria, he tenido la oportunidad de trabajar en diversos proyectos y sectores, incluyendo el bancario, hotelero, bienes raíces, conjuntos residenciales, entre otros.
 - **Responsabilidades y Logros:**
     - Implementación de soluciones para el manejo de datos multimedia en buckets S3.
@@ -78,3 +80,44 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
     - Integración e Interconexión entre sistemas informatios de diferentes fabricantes.
     - Testing, control de excepciones, logs de errores y auditoría.
 - **Tecnologías utilizadas:** NestJS, Flutter, FastApi, Postgres, MongoDB, Docker, Sentry, Kibana, ElasticSearch, Amazon S3, entre otros.
+
+
+### Servicios y Alimentación Juicy CM S.A
+- **Cargo:** Asistente Administrativo y Contable
+- **Periodo:** Febrero 2018 - Febrero 2020 (2 años 1 mes)
+- **Ubicación:** Alajuela, Costa Rica
+- **Descripción:** Me desempeñé como asistente administrativo y contable, siendo responsable del departamento de proveeduría, control de cuentas por pagar y por cobrar, control de gastos, control y análisis de costos de producción, y control de inventario. Además, estuve a cargo de generar los informes de resultados y cierres mensuales.
+- **Responsabilidades y Logros:**
+    - Gestión eficiente de la proveeduría y control de cuentas por pagar y por cobrar.
+    - Control minucioso de los gastos y análisis de los costos de producción.
+    - Supervisión del inventario para garantizar su precisión y disponibilidad.
+    - Generación de informes de resultados y cierres mensuales de manera oportuna y precisa.
+    - Mantenimiento de registros contables actualizados y precisos.
+    - Colaboración con el equipo para mejorar los procesos administrativos y contables.
+
+      
+### Comercial Alemora S.A
+- **Cargo:** Asistente de Auditoría Interna
+- **Periodo:** Junio 2017 - Febrero 2018 (9 meses)
+- **Ubicación:** Puriscal, San José, Costa Rica
+- **Descripción:** Trabajé como asistente de auditoría interna, encargado de auditar los procedimientos y funciones de varios departamentos, incluyendo T.I.C, Costos, Contabilidad, Proveeduría, Operaciones y Cuentas por Pagar. Mis responsabilidades incluían el análisis de transacciones de cajeros, rendimientos operativos, arqueo de fondos de caja y de cheques emitidos, auditoría de control a inventarios de alto riesgo, aplicación de cuestionarios de control interno y elaboración de informes gerenciales.
+- **Responsabilidades y Logros:**
+    - Realización de auditorías exhaustivas para identificar posibles irregularidades y riesgos.
+    - Análisis detallado de transacciones de cajeros y rendimientos operativos.
+    - Verificación de fondos de caja y cheques emitidos para garantizar la integridad financiera.
+    - Auditoría de control a inventarios de alto riesgo para prevenir pérdidas y garantizar la precisión de los registros.
+    - Aplicación de cuestionarios de control interno para evaluar la eficiencia de los procesos.
+    - Elaboración de informes gerenciales claros y concisos para comunicar hallazgos y recomendaciones.
+ 
+      
+### Asociación Solidarista de Empleados Procter & Gamble (ASEPG)
+- **Departamento:** Proveeduría y Costos
+- **Periodo:** Marzo 2013 - Abril 2017 (4 años 2 meses)
+- **Ubicación:** Santa Ana, San José, Costa Rica
+- **Descripción:** Trabajé como encargado del departamento de proveeduría, donde tuve responsabilidades clave en el control de cuentas por pagar, gestión de inventarios, control de gastos operativos y análisis de costos de producción. También me encargué del análisis de ventas y realicé auditoría de transacciones generadas a nivel de sistema, incluyendo ajustes de inventario, costos de producción, traslados de mercadería entre bodegas, ventas, entre otros.
+- **Responsabilidades y Logros:**
+    - Gestión eficiente de cuentas por pagar y proveedores.
+    - Control y optimización de inventarios para reducir costos y garantizar disponibilidad.
+    - Análisis exhaustivo de costos de producción para identificar oportunidades de mejora.
+    - Monitoreo y análisis de ventas para identificar tendencias y tomar decisiones informadas.
+    - Auditoría rigurosa de transacciones generadas a nivel de sistema para mantener la integridad de los datos.
