@@ -57,7 +57,7 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
 <br />
 <br />
 
-## Actualmente estoy aprendiendo
+## Actualmente me encuentro aprendiendo
 
 - Python
 - FastApi
