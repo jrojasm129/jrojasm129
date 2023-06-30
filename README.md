@@ -1,5 +1,5 @@
 [<img align="left" width="30px" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-plain-wordmark.svg" style="padding-right:10px;" />][knowledge]
-[<img align="left" width="80px" height="22px" alt="IOS" src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" style="padding-right:10px;" />][knowledge]
+[<img align="left" width="30px" alt="Android" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" style="padding-right:10px;" />][knowledge]
 
 <br />
 
