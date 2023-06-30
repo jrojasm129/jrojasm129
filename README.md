@@ -9,25 +9,38 @@
 
 ## Sobre mí
 
-¡Hola! Soy David Rojas, un desarrollador Cross-Platform y apasionado de Flutter. ¡Pura Vida desde Costa Rica! :fire: Me encanta crear aplicaciones móviles y web utilizando tecnologías como Flutter, Dart, Node.js y JavaScript. Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
+¡Hola! Soy David Rojas, un desarrollador Cross-Platform y apasionado de Flutter. ¡Pura Vida! :fire: 
+Me encanta crear aplicaciones móviles y el desarrollo backend utilizando tecnologías como Flutter, Dart, Nestjs, TypeScript y ahorita mismo que estoy incursionandome en el mundo de Python con FastApi.
+Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
 
 ## Tecnologías que utilizo
 
-### Desarrollo de aplicaciones
+### Desarrollo de aplicaciones multiplataforma
 
-<img align="left" alt="Visual Studio Code" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
 <img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" />
 <img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" />
-<img align="left" alt="VB.Net" width="30px" src="./assets/images/vb-dot-net.png" />
+
+<br />
+<br />
+
+### Desarrollo Backend
+
 <img align="left" alt="Node.js" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
-<img align="left" alt="Photoshop" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img align="left" alt="NestJS" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nestjs/nestjs-plain.svg" />
 <img align="left" alt="TypeScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="FastAPI" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" />
+<img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img align="left" alt="Docker" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+
+<br />
+<br />
+
+### Control de versiones
+
+<img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<img align="left" alt="Gitlab" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" />
 
 <br />
 <br />
@@ -46,9 +59,9 @@
 
 ## Actualmente estoy aprendiendo
 
-- Hacking Ético
-- Ciencia de Datos
-- Ethereum Smart Contracts
+- Python
+- FastApi
+- Docker
 
 ## Estadísticas de GitHub
 
