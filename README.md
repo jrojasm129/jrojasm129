@@ -1,5 +1,5 @@
 <h1 align="center">Hola a todos, soy David Rojas</h1>
-<h3 align="center">Desarrollador Cross-Platform y apasionado de Flutter</h3>
+<h3 align="center">Desarrollador Móvil y Backend</h3>
 
 <p align="center">
   <a href="https://linkedin.com/in/jrojasm129">
@@ -9,9 +9,10 @@
 
 ## Sobre mí
 
-¡Hola! Soy David Rojas, un desarrollador Cross-Platform y apasionado de Flutter. ¡Pura Vida! :fire: 
-Me encanta crear aplicaciones móviles y el desarrollo backend utilizando tecnologías como Flutter, Dart, Nestjs, TypeScript y ahorita mismo que estoy incursionandome en el mundo de Python con FastApi.
-Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes.
+¡Hola! Soy David Rojas, un desarrollador Móvil y Backend, apasionado de Flutter. <br />
+Me encanta crear aplicaciones móviles y el desarrollo backend utilizando tecnologías como Flutter, Dart, Nestjs, TypeScript y ahorita mismo que estoy incursionandome en Python con FastApi.
+Siempre estoy buscando aprender y explorar nuevas tecnologías emocionantes. <br />
+¡Pura Vida! :fire: 
 
 ## Tecnologías que utilizo
 
