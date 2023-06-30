@@ -70,7 +70,7 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías o técnicas emoci
 ## Experiencia Profesional
 
 ### Heippi
-- **Departamento:**Desarrollo de sottware Móvil y Backend
+- **Departamento:** Desarrollo de sottware Móvil y Backend
 - **Periodo:** Agosto 2022 - Actualidad
 - **Ubicación:** Cartagena, Colombia
 - **Descripción:** Soy desarrollador de software en Heippi, una empresa especializada en el desarrollo de soluciones a medida. Durante mi trayectoria, he tenido la oportunidad de trabajar en diversos proyectos y sectores, incluyendo el bancario, hotelero, bienes raíces, conjuntos residenciales, entre otros.
@@ -90,7 +90,7 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías o técnicas emoci
 <br />
 
 ### Servicios y Alimentación Juicy CM S.A
-- **Cargo:** Asistente Administrativo y Contable
+- **Departamento:** Asistente Administrativo y Contable
 - **Periodo:** Febrero 2018 - Febrero 2020 (2 años 1 mes)
 - **Ubicación:** Alajuela, Costa Rica
 - **Descripción:** Me desempeñé como asistente administrativo y contable, siendo responsable del departamento de proveeduría, control de cuentas por pagar y por cobrar, control de gastos, control y análisis de costos de producción, y control de inventario. Además, estuve a cargo de generar los informes de resultados y cierres mensuales.
@@ -106,7 +106,7 @@ Siempre estoy buscando aprender y explorar nuevas tecnologías o técnicas emoci
 <br />
 
 ### Comercial Alemora S.A
-- **Cargo:** Asistente de Auditoría Interna
+- **Departamento:** Asistente de Auditoría Interna
 - **Periodo:** Junio 2017 - Febrero 2018 (9 meses)
 - **Ubicación:** Puriscal, San José, Costa Rica
 - **Descripción:** Trabajé como asistente de auditoría interna, encargado de auditar los procedimientos y funciones de varios departamentos, incluyendo T.I.C, Costos, Contabilidad, Proveeduría, Operaciones y Cuentas por Pagar. Mis responsabilidades incluían el análisis de transacciones de cajeros, rendimientos operativos, arqueo de fondos de caja y de cheques emitidos, auditoría de control a inventarios de alto riesgo, aplicación de cuestionarios de control interno y elaboración de informes gerenciales.
